@@ -1,3 +1,18 @@
+# FilmList - This application displays thumbnails of few movies and focuses on them and their description after clicking on them.
+
+## Languages used:
+<li>Html</li>
+<li>Css</li>
+<li>JS</li>
+<li>Typescript</li>
+
+## Frameworks used:
+<li>Angular</li>
+
+## Others:
+<li>None</li>
+<hr>
+
 # Projekt
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
