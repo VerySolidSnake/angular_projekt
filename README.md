@@ -1,4 +1,4 @@
-# FilmList - This application displays thumbnails of few movies and focuses on them and their description after clicking on them.
+# FilmList - This application displays thumbnails of few movies and focuses on them and their description after choosing the one user needs to know more about.
 
 ## Languages used:
 <li>Html</li>
